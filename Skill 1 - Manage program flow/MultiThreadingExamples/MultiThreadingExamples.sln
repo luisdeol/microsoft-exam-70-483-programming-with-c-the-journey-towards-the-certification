@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manage-multithreading", "ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "implement-program-flow", "implement-program-flow\implement-program-flow.csproj", "{FDA4E1B2-4F7D-4704-B3C0-0037B3FEE587}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "create-implement-events-callbacks", "create-implement-events-callbacks\create-implement-events-callbacks.csproj", "{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FDA4E1B2-4F7D-4704-B3C0-0037B3FEE587}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDA4E1B2-4F7D-4704-B3C0-0037B3FEE587}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDA4E1B2-4F7D-4704-B3C0-0037B3FEE587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
