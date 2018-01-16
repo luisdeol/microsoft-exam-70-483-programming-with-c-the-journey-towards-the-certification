@@ -10,7 +10,7 @@
  - [Objective 1.1: Implement multithreading and asynchronous processing](https://medium.com/@luisdeolme/objective-1-1-implement-multithreading-and-asynchronous-processing-de6cadb788e9)
  - [Objective 1.2: Manage multithreading](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-2-manage-multithreading-71552e9c5293)
 - [Objective 1.3: Implement program flow](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-3-implement-program-flow-11b96142c278)
-
+- [Objective 1.4: Create and implement events and callbacks](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-4-create-and-implement-events-and-callbacks-44d16aaf013d)
 
 
 **Resources**
