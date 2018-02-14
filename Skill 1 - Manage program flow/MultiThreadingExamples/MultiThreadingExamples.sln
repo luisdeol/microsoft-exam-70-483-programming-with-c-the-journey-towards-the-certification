@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadingExamples", "MultiThreadingExamples\MultiThreadingExamples.csproj", "{2ACB07E8-5B66-4EB1-A4AC-DEA013EC17F7}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "implement-program-flow", "implement-program-flow\implement-program-flow.csproj", "{FDA4E1B2-4F7D-4704-B3C0-0037B3FEE587}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "create-implement-events-callbacks", "create-implement-events-callbacks\create-implement-events-callbacks.csproj", "{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "implement-exception-handling", "implement-exception-handling\implement-exception-handling.csproj", "{E8BE15A6-4D52-4EAB-8CAB-A9B07B30A36E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3E6EC31-18EF-49DB-AEE6-D7C01424540E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BE15A6-4D52-4EAB-8CAB-A9B07B30A36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BE15A6-4D52-4EAB-8CAB-A9B07B30A36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BE15A6-4D52-4EAB-8CAB-A9B07B30A36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BE15A6-4D52-4EAB-8CAB-A9B07B30A36E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
