@@ -11,7 +11,9 @@
  - [Objective 1.2: Manage multithreading](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-2-manage-multithreading-71552e9c5293)
 - [Objective 1.3: Implement program flow](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-3-implement-program-flow-11b96142c278)
 - [Objective 1.4: Create and implement events and callbacks](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-4-create-and-implement-events-and-callbacks-44d16aaf013d)
-
+- [Objective 1.5: Create and implement events and callbacks](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-5-implement-exception-handling-af6350a3e7c8)
+- [Objective 1.5: Implement exception handling](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-5-implement-exception-handling-af6350a3e7c8)
+- [Objective 2.1: Create types](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-1-create-types-dc74db8fd056)
 
 **Resources**
 -----------
