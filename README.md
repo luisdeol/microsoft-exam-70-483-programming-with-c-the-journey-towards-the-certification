@@ -14,7 +14,7 @@
 - [Objective 1.5: Implement exception handling](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-1-5-implement-exception-handling-af6350a3e7c8)
 - [Objective 2.1: Create types](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-1-create-types-dc74db8fd056)
 - [Objective 2.2: Consume types](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-2-consume-types-1e5a429dc390)
-- [Objective 2.3: Enforce Encapsulation]() (COMING UP ON 26/03/19)
+- [Objective 2.3: Enforce Encapsulation]() (COMING UP ON 27/03/19)
 
 **Resources**
 -----------
