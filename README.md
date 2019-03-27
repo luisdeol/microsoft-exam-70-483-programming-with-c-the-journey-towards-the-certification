@@ -15,6 +15,7 @@
 - [Objective 2.1: Create types](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-1-create-types-dc74db8fd056)
 - [Objective 2.2: Consume types](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-2-consume-types-1e5a429dc390)
 - [Objective 2.3: Enforce Encapsulation](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-3-enforcing-encapsulation-cac0eb124e1b)
+- Objective 2.4: Create and implement a class hierarchy *COMING SOON*
 
 **Resources**
 -----------
