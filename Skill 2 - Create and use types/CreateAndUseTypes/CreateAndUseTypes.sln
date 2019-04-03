@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeTypes", "ConsumeType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnforcingEncapsulation", "EnforcingEncapsulation\EnforcingEncapsulation.csproj", "{3563F5A5-1435-435C-A6A0-3A0FBBC3C161}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAndImplClassHierar", "CreateAndImplClassHierar\CreateAndImplClassHierar.csproj", "{82A9DFA7-3236-4ADC-B911-F797B56AFE96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3563F5A5-1435-435C-A6A0-3A0FBBC3C161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3563F5A5-1435-435C-A6A0-3A0FBBC3C161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3563F5A5-1435-435C-A6A0-3A0FBBC3C161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A9DFA7-3236-4ADC-B911-F797B56AFE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A9DFA7-3236-4ADC-B911-F797B56AFE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A9DFA7-3236-4ADC-B911-F797B56AFE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A9DFA7-3236-4ADC-B911-F797B56AFE96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
