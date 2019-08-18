@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAndImplClassHierar", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_RuntimeReflection", "25_RuntimeReflection\25_RuntimeReflection.csproj", "{1EAD5239-8A99-4F65-8D51-C7F776B10FAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_ManageObjLifecycle", "26_ManageObjLifecycle\26_ManageObjLifecycle.csproj", "{95E0C514-4A51-44A4-9BF8-C47362F812BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1EAD5239-8A99-4F65-8D51-C7F776B10FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EAD5239-8A99-4F65-8D51-C7F776B10FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EAD5239-8A99-4F65-8D51-C7F776B10FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E0C514-4A51-44A4-9BF8-C47362F812BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E0C514-4A51-44A4-9BF8-C47362F812BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E0C514-4A51-44A4-9BF8-C47362F812BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E0C514-4A51-44A4-9BF8-C47362F812BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
