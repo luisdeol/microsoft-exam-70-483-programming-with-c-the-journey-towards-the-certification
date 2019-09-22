@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_RuntimeReflection", "25_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_ManageObjLifecycle", "26_ManageObjLifecycle\26_ManageObjLifecycle.csproj", "{95E0C514-4A51-44A4-9BF8-C47362F812BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_ManipulateStrings", "27_ManipulateStrings\27_ManipulateStrings.csproj", "{DD65EA43-1274-48D8-B747-E20500C590AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{95E0C514-4A51-44A4-9BF8-C47362F812BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E0C514-4A51-44A4-9BF8-C47362F812BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95E0C514-4A51-44A4-9BF8-C47362F812BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD65EA43-1274-48D8-B747-E20500C590AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD65EA43-1274-48D8-B747-E20500C590AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD65EA43-1274-48D8-B747-E20500C590AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD65EA43-1274-48D8-B747-E20500C590AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
