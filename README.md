@@ -17,7 +17,8 @@
 - [Objective 2.3: Enforce Encapsulation](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-3-enforcing-encapsulation-cac0eb124e1b)
 - [Objective 2.4: Create and implement a class hierarchy](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-4-create-and-implement-a-class-hierarchy-95b3d7222369)
 - [Objective 2.5: Find, execute, and create types at runtime by using reflection](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-5-7f8193faad14)
-- Objective 2.6: Manage the object life cycle *ALREADY STARTED WRITING IT*
+- [Objective 2.6: Manage the object life cycle](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-6-manage-the-object-life-cycle-40a9ece1fd0b)
+- Objective 2.7: Manipulate strings (SOON)
 
 **Resources**
 -----------
