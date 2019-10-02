@@ -25,9 +25,19 @@ namespace _27_ManipulateStrings
         //    var formattedShortDate = now.ToString("d"); // equivalent to now.ToShortDateString();
         //    var customFormatDate = now.ToString("dd-MM-yyyy");
 
+        //    Console.WriteLine("-----Using string.Format-----");
+        //    var stringFormatDate = string.Format("Long date: {0:D}, Shortdate: {1:d}, Currency: {2:C}\n", now, now, price);
+        //    Console.WriteLine(stringFormatDate);
+
+        //    Console.WriteLine("-----Using ToString overloads-----");
+
         //    Console.WriteLine($"Date in LongDate format: {formatteLongdDate}");
         //    Console.WriteLine($"Date in ShortDate format: {formattedShortDate}");
-        //    Console.WriteLine($"Date in dd-MM-yyyy format: {customFormatDate}");
+        //    Console.WriteLine($"Date in dd-MM-yyyy format: {customFormatDate}\n");
+
+        //    Console.WriteLine("-----Using string interpolation-----");
+
+        //    Console.WriteLine($"Long date: {now:D}, Shortdate: {now:d}, Currency: {price:C}");
 
         //    Console.ReadKey();
         //}
