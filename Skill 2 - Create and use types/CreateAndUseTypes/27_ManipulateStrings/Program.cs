@@ -1,7 +1,5 @@
-﻿using Newtonsoft.Json;
-using System;
-using System.IO;
-using System.Text;
+﻿using System;
+using System.Globalization;
 
 namespace _27_ManipulateStrings
 {
@@ -9,39 +7,24 @@ namespace _27_ManipulateStrings
     {
         static void Main(string[] args)
         {
-            var numbers = new StringBuilder();
+            double price = 14.99;
+            var now = DateTime.Now;
 
-            for (var i = 0; i <= 100; i++)
-            {
-                numbers.AppendLine(i.ToString());
-            }
+            var formattedDollarPrice = price.ToString("C", new CultureInfo("en-US", false));
+            var formattedCurrentCulturePrice = price.ToString("C", CultureInfo.CurrentCulture);
 
-            Console.WriteLine(numbers);
+            Console.WriteLine($"Price (in dollars): {formattedDollarPrice}");
+            Console.WriteLine($"Price (in local currency): {formattedCurrentCulturePrice}");
 
-            var sbPersonJson = new StringBuilder();
-            var stringWriter = new StringWriter(sbPersonJson);
+            Console.WriteLine("Date format:");
 
-            using (var jsonWriter = new JsonTextWriter(stringWriter))
-            {
-                jsonWriter.WriteStartObject();
+            var formatteLongdDate = now.ToString("D"); //now.ToLongDateString();
+            var formattedShortDate = now.ToString("d"); //now.ToShortDateString();
+            var customFormatDate = now.ToString("dd-MM-yyyy");
 
-                jsonWriter.WritePropertyName("Name");
-                jsonWriter.WriteValue("Luis");
-
-                jsonWriter.WritePropertyName("University");
-                jsonWriter.WriteValue("IFRN");
-
-                jsonWriter.WriteEndObject();
-            }
-
-            Console.WriteLine($"Output using JsonTextWriter: {sbPersonJson}");
-
-            using (var stringReader = new StringReader(sbPersonJson.ToString()))
-            {
-                var content = stringReader.ReadToEnd();
-
-                Console.WriteLine($"Output using StringReader: {content}");
-            }
+            Console.WriteLine($"Date in LongDate format: {formatteLongdDate}");
+            Console.WriteLine($"Date in ShortDate format: {formattedShortDate}");
+            Console.WriteLine($"Date in dd-MM-yyyy format: {customFormatDate}");
 
             Console.ReadKey();
         }
