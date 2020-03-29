@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _31_ValidateAppInput
 {
@@ -10,6 +6,9 @@ namespace _31_ValidateAppInput
     {
         static void Main(string[] args)
         {
+            EvaluateRegex.GetExample();
+
+            Console.ReadLine();
         }
     }
 }
