@@ -21,7 +21,8 @@
 - [Objective 2.7: Manipulate strings](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-7-manipulate-strings-b3c6410a24ff)  
 - [Objective 3.1: Validate application input](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-1-validate-application-input-6dd4ffde4ada)  
 - [Objective 3.2: Perform symmetric and asymmetric encryption](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-2-7899c6a49c5c)  
-- Objective 3.3: Manage assemblies (COMING SOON)  
+- [Objective 3.3: Manage assemblies](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-3-manage-assemblies-d3bac5ff14a9)  
+- Objective 3.4: Debug an application  
   
 **Resources**
 -----------
