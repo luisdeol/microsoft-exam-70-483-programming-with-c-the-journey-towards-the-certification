@@ -18,9 +18,12 @@
 - [Objective 2.4: Create and implement a class hierarchy](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-4-create-and-implement-a-class-hierarchy-95b3d7222369)
 - [Objective 2.5: Find, execute, and create types at runtime by using reflection](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-5-7f8193faad14)
 - [Objective 2.6: Manage the object life cycle](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-6-manage-the-object-life-cycle-40a9ece1fd0b)
-- [Objective 2.7: Manipulate strings](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-7-manipulate-strings-b3c6410a24ff)
-- Objective 3.1: Validate application input (COMING SOON)
-
+- [Objective 2.7: Manipulate strings](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-2-7-manipulate-strings-b3c6410a24ff)  
+- [Objective 3.1: Validate application input](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-1-validate-application-input-6dd4ffde4ada)  
+- [Objective 3.2: Perform symmetric and asymmetric encryption](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-2-7899c6a49c5c)  
+- [Objective 3.3: Manage assemblies](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-3-manage-assemblies-d3bac5ff14a9)  
+- Objective 3.4: Debug an application  
+  
 **Resources**
 -----------
 
