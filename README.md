@@ -22,7 +22,8 @@
 - [Objective 3.1: Validate application input](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-1-validate-application-input-6dd4ffde4ada)  
 - [Objective 3.2: Perform symmetric and asymmetric encryption](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-2-7899c6a49c5c)  
 - [Objective 3.3: Manage assemblies](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-3-manage-assemblies-d3bac5ff14a9)  
-- Objective 3.4: Debug an application  
+- [Objective 3.4: Debug an application](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-4-debug-an-application-cf7f36639cd2)  
+- Objective 3.5: Implement diagnostics in an application (Coming soon)   
   
 **Resources**
 -----------
