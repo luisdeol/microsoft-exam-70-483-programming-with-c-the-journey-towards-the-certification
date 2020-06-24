@@ -24,8 +24,8 @@
 - [Objective 3.3: Manage assemblies](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-3-manage-assemblies-d3bac5ff14a9)  
 - [Objective 3.4: Debug an application](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-4-debug-an-application-cf7f36639cd2)  
 - [Objective 3.5: Implement diagnostics in an application](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-5-implement-diagnostics-in-an-application-fec9da3affba)  
-- Objective 4.1: Perform I/O Operations  
-
+- [Objective 4.1: Perform I/O Operations](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-4-1-perform-i-o-operations-afd72f9c46b)  
+  
   
 **Resources**
 -----------
