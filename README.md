@@ -26,6 +26,10 @@
 - [Objective 3.5: Implement diagnostics in an application](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-3-5-implement-diagnostics-in-an-application-fec9da3affba)  
 - [Objective 4.1: Perform I/O Operations](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-4-1-perform-i-o-operations-afd72f9c46b)  
 - [Objective 4.2: Consume data](https://medium.com/@luisdeolme/microsoft-exam-70-483-programming-in-c-objective-4-2-consume-data-8342787b961d)    
+- Objective 4.3: Query and manipulate data and objects by using LINQ  
+- Objective 4.4: Serialize and deserialize data  
+- Objective 4.5: Store data in and retrieve data from collections  
+
   
   
 **Resources**
